@@ -10,3 +10,28 @@
 
 ## About me:
 
+## Skills:
+
+Have little expirience of **Java**. Now I learn **JS**, **HTML**, **CSS**, **GIT**.<br/>
+At first time I used to work with **Eclipse** IDE. Then it was **Sublime Text 3**, but now I prefer **Visual Studio Code**.
+
+## Code examples:
+
+```javascript
+
+const sayHello = () => {
+
+console.log('Hello, World!')
+};
+
+sayHello();
+
+```
+
+## Work expirience:
+
+## Education:
+
+- **Belarussian National University of Economics** 2009-2013
+- Self education of **programing basics**
+- **RS School** student of **2020Q3** group
